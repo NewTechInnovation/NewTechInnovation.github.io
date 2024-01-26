@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shreyaskumar Kathiriya"
+title                    : "Shreyas Kathiriya"
 title_separator          : "-"
-name                     : "Shreyaskumar Kathiriya"
-description              : "Data Science Portfolio"
+name                     : "Shreyas Kathiriya"
+description              : "AI Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Shreyaskumar Kathiriya"
   avatar           : "/images/profile_picture.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a Data Science enthusiast with deep understanding of statistical concepts and analatical practices with three years of experience working with various Data Analytics tools and delievering data driven business solutions"
+  bio              : "Exploring and sharing the intriguing world of AI innovations with a dash of curiosity and excitement"
   location         : "New York"
   email            : "sjk714@nyu.edu"
   uri              :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Shreyash1811"
+  github           : "AICrafterSage"
   gitlab           :
   google_plus      :
   keybase          :

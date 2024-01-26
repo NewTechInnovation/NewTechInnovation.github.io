@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /machine-learning/
+permalink: /talkAI/
 title: "Machine Learning Posts by Tags"
 author_profile: true
 header:
