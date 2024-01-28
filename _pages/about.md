@@ -4,8 +4,6 @@ title: Mediumish Template for Jekyll
 permalink: /about
 comments: true
 ---
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
 
 # Welcome to "NextGen" with Shreyas
 
@@ -17,11 +15,6 @@ comments: true
 
 ## Empowering the Future
 I aim to make "NextGen" a beacon for the young and curious minds, showcasing how **predictive analytics**, **conversational AI**, and **smart technology** are paving the way for a more advanced world. This blog serves as a bridge, connecting the present with the future of technology, encouraging and motivating our next generation of innovators and thinkers.
-<div class="sticky-top sticky-top-80">
-<p> 
-Join the Journey
+
+##Join the Journey
 As we embark on this exploratory journey, I invite you to be a part of "NextGen". Together, let's dive into the world of AI and technology, discovering and understanding how these tools are revolutionizing our lives, one post at a time.
-</p>
-</div>
-</div>
-</div>
