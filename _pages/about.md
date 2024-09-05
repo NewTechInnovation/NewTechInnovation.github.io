@@ -1,14 +1,13 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: I'm Shreyas
 permalink: /about
 comments: true
 ---
 
 # Welcome to The ChadGPT
 
-## About Me  
-**Hey there! I'm Shreyas**, a tech enthusiast with a love for **data science**, **data governance**, and all things **innovation**. My deep dive into technology got turbocharged when I stumbled upon **OpenAI's ChatGPT**—a mind-blowing leap in **natural language processing**. Since then, I’ve been hooked on AI and its game-changing potential, and now I’m here to share this exciting journey with you.
+A tech enthusiast with a love for **data science**, **data governance**, and all things **innovation**. My deep dive into technology got turbocharged when I stumbled upon **OpenAI's ChatGPT**—a mind-blowing leap in **natural language processing**. Since then, I’ve been hooked on AI and its game-changing potential, and now I’m here to share this exciting journey with you.
 
 ## Mission of New Tech Innovation  
 - **Explore the Coolest Tech**: From **AI** to **robotics** and beyond, we dive headfirst into the future.  
