@@ -1,9 +1,9 @@
 # Site
-name: "NextGen"
-title: "NextGen AI Tools"
-description: "Welcome to NextGen! I'm Shreyas, here to explore and share the intriguing world of AI innovations and breakthroughs with a dash of curiosity and excitement"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "The ChadGPT"
+title: "Tomorrow's AI"
+description: "Welcome to The ChadGPT! I'm Shreyas, here to explore and share the intriguing world of AI innovations and breakthroughs with a dash of curiosity and excitement"
+logo: 'assets/images/fingerguns.png'
+favicon: 'assets/images/yay-frog.gif'
 baseurl: /
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
@@ -21,7 +21,7 @@ authors:
     web: https://aicraftersage.github.io/
     twitter: https://twitter.com/wowthemesnet
     description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
-  john:
+  Shreyas:
     name: Shreyas
     display_name: K
     avatar: 'assets/images/avatar.png'

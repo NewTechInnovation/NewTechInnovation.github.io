@@ -5,7 +5,7 @@ permalink: /about
 comments: true
 ---
 
-# Welcome to New Tech Innovation
+# Welcome to The ChadGPT
 
 ## About Me
 **My name is Shreyas**, and I am passionate about **data science**, **data governance**, and **technological innovation**. My journey into the world of technology deepened with the advent of **OpenAI's ChatGPT**, a groundbreaking tool in **natural language processing**. This experience fueled my passion for AI and inspired me to explore and share more about the ever-evolving tech landscape.
