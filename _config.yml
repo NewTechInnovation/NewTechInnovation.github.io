@@ -1,7 +1,7 @@
 # Site
 name: "The ChadGPT"
 title: "Tomorrow's AI"
-description: "Welcome to The ChadGPT! I'm Shreyas, here to explore and share the intriguing world of AI innovations and breakthroughs with a dash of curiosity and excitement"
+description: "Welcome to The ChadGPT! I’m Shreyas, your guide to exploring AI’s coolest innovations. Here, we mix curiosity with fun, diving into the future of AI without the boring stuff. Let’s learn, laugh, and discover where AI is headed!"
 logo: 'assets/images/fingerguns.png'
 favicon: 'assets/images/yay-frog.gif'
 baseurl: /
@@ -14,8 +14,8 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: Sal
-    display_name: Sal
+    name: Shreyas
+    display_name: K
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: shreyashkathiriya@gmail.com
     web: https://aicraftersage.github.io/
